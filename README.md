@@ -127,8 +127,6 @@ Prompt: texto do e-mail
 
 System Message: instruções do papel do agente
 
-API Key criada em: https://aistudio.google.com
-
 Memória: Simple Memory
 
 Session ID: threadId
