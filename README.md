@@ -16,7 +16,8 @@ Visão geral
 
 Demonstração visual
 
-<img width="1320" height="655" alt="image" src="https://github.com/user-attachments/assets/3e865a07-40b2-480d-a132-08d1f966f2cc" />
+<img width="1808" height="671" alt="Agente de IA que responde email comercial" src="https://github.com/user-attachments/assets/ed15658b-a295-4566-a60d-ab352e069cc6" />
+
 
 
 Arquitetura da automação
