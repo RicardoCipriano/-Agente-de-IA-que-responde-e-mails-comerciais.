@@ -1,7 +1,6 @@
 📩 Automação de Respostas Comerciais com n8n + IA
 
 
-<img width="1259" height="742" alt="image" src="https://github.com/user-attachments/assets/395c22b2-2a89-4db8-8238-f41a1dac7bf7" />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7207ae9b-df9c-48b7-ba49-13290cf2e52e" />
 
 
